@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/agico/"
-title = "Agico | App Landing Hugo Template"
+baseURL = "https://https://costacomputerguy.netlify.app/"
+title = "Costa Computer Guy | IT support service on Costa Tropical"
 theme = "agico-hugo"
 # post pagination
 paginate = "6"
