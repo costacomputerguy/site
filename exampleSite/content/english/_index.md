@@ -22,21 +22,22 @@ partner:
   - images/partner/client-logo-5.png
 feature:
   enable: true
-  subtitle: fetures
-  title: exclusive features
+  subtitle: features
+  title: How can we help?
   feature_item:
-  - name: Free Trial
+  - name: Call Home
     image: images/feature/feature-1.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - name: No Setup
+    content: Get your phone set up so you can call back home. Internet calls back
+      home are not only cheaper, but they allow you to see your loved ones as you
+      chat. Let us show you how.
+  - name: Online photo storage
     image: images/feature/feature-2.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
-  - name: Optimized Data
+    content: Never lose a picture of your loved ones. Setup online storage to automatically
+      backup you phone pictures and also save your camera pictures.
+  - name: Online Files
     image: images/feature/feature-3.png
-    content: Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt
-      labore dolore magna.
+    content: Who needs a filing cabinet when you can have all your files stored in
+      the cloud. We can show you how.
 about:
   enable: true
   about_item:
