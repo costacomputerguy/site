@@ -30,10 +30,12 @@ feature:
     content: Get your phone set up so you can call back home. Internet calls back
       home are not only cheaper, but they allow you to see your loved ones as you
       chat. Let us show you how.
+    title: Video calling back home
   - name: Online photo storage
     image: images/feature/feature-2.png
     content: Never lose a picture of your loved ones. Setup online storage to automatically
       backup you phone pictures and also save your camera pictures.
+    title: Photo backup
   - name: Online Files
     image: images/feature/feature-3.png
     content: Who needs a filing cabinet when you can have all your files stored in
