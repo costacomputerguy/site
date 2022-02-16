@@ -38,6 +38,7 @@ feature:
     image: images/feature/feature-3.png
     content: Who needs a filing cabinet when you can have all your files stored in
       the cloud. We can show you how.
+    title: Store your files in the Cloud
 about:
   enable: true
   about_item:
