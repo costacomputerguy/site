@@ -6,7 +6,7 @@ watermark: "Pricing"
 page_header_image: "images/background/about.jpg"
 # meta description
 description : "Our pricing is split into two categories. A one off payment per visit. Or Pay monthly and have us on call.<br>
-               Our rate is 20 Euros per/hour and we will give you an estimate to how long it will take. "
+               Our rate is €20 per/hour and we will give you an estimate to how long it will take. "
 
 layout: "pricing"
 draft: false

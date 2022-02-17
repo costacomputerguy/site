@@ -1,7 +1,7 @@
 ---
-title: "About Us"
+title: "Sobre Nosotros"
 # watermark text
-watermark: "About"
+watermark: "Nosotros"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description

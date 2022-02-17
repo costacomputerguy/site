@@ -6,7 +6,7 @@ watermark: "Precios"
 page_header_image: "images/background/about.jpg"
 # meta description
 description : "Nuestros precios se dividen en dos categorías. Un pago único por visita. O pague mensualmente y ténganos a su disposición.<br>
-               Nuestra tarifa es de 20 euros por hora y le daremos una estimación de cuánto tiempo llevará. "
+               Nuestra tarifa es de €20 por hora y le daremos una estimación de cuánto tiempo llevará. "
 
 layout: "pricing"
 draft: false
