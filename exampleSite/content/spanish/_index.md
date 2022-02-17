@@ -68,7 +68,7 @@ about:
 promo_video:
   enable: true
   video_thumbnail: images/check-video.png
-  video_link: https://www.youtube.com/watch?v=yCWNRzoQGis
+  video_link: https://www.youtube.com/watch?v=IzxC6UPilqQ
   subtitle: VPN?
   title: ¿Alguien te dijo que usaras una VPN? ¿Bien, qué es esto?
   content: |-
