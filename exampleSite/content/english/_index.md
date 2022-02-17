@@ -111,7 +111,7 @@ testimonial:
       nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
       qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
 download:
-  enable: true
+  enable: false
   title: Download Agico Now
   image: images/download-mobile-img.jpg
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
