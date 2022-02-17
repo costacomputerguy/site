@@ -78,3 +78,6 @@
 
 - id: address
   translation: Address
+
+- id: select_plan
+  translation: Select Plan
