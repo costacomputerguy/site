@@ -46,7 +46,7 @@ about:
   about_item:
   - image: images/about/about-1.png
     subtitle: Technical Help
-    title: Will over 20 years working in IT services we can assist with getting you
+    title: With over 20 years working in IT services we can assist with getting you
       sorted
     content: If its a hardware or software issue we can locate and fix the majority
       of issues. Anything we cant sort we can advise of the best approach to resolve
@@ -102,7 +102,7 @@ testimonial:
              to our accounts. CostaComputerGuy installed a VPN (whatever that is) and we could continue to use our
              banking app in Spain to manage our accounts. This worked on our phones and computer.
   - name: Lorenza Garcia
-    designation: Basic Computer Use
+    designation: Basic Computer Lessons
     content: Since my family have moved overseas they have asked me to setup video calling so we can keep in touch.
              They contacted CostaComputerGuy to come to my house and set it all up. CostaComputerGuy spent time with me
              showing me how to call my family and give me confidence in using the software on my phone. My family are over the moon.
@@ -122,7 +122,7 @@ download:
 pricing:
   enable: true
   subtitle: Our pricing is split into two categories. A one off payment per visit. Or Pay monthly and have us on call.
-  title: Our rate is 20 Euros per/hour and we will give you an estimate to how long it will take.
+  title: Our rate is €20 per/hour and we will give you an estimate to how long it will take.
   section: pricing
   show_items: "3"
 

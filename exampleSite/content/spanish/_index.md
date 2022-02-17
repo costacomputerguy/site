@@ -2,15 +2,15 @@
 banner:
   enable: true
   bg_image: images/background/banner.png
-  title: Computer Support throughout the Costa Tropical
-  watermark: Support
-  content: We offer computer support and assistance for any technical issue you are
-    having. We can fix your computer, set you up on the Internet, or give you confidence
-    using online services.
+  title: Soporte Informático en toda la Costa Tropical
+  watermark: Soporte
+  content: Ofrecemos soporte informático y asistencia para cualquier problema técnico que tengas
+    teniendo. Podemos arreglar su computadora, configurarlo en Internet o darle confianza
+    usando servicios en línea.
   image: images/banner/banner-1.png
   button:
     enable: true
-    label: Get in Touch
+    label: Ponerse en contacto
     link: "#"
 partner:
   enable: false
@@ -22,90 +22,90 @@ partner:
   - images/partner/client-logo-5.png
 feature:
   enable: true
-  subtitle: features
-  title: How can we help?
+  subtitle: características
+  title: ¿Cómo podemos ayudar?
   feature_item:
-  - name: Call Home
+  - name: Llama a casa
     image: images/feature/feature-1.png
-    content: Get your phone set up so you can call back home. Internet calls back
-      home are not only cheaper, but they allow you to see your loved ones as you
-      chat. Let us show you how.
-    title: Video calling back home
-  - name: Online photo storage
+    content: Configura tu teléfono para que puedas volver a llamar a casa. Devolución de llamadas por Internet
+      hogar no solo son más baratos, sino que te permiten ver a tus seres queridos como tú
+      chat. Permítanos mostrarle cómo.
+    title: Videollamada de vuelta a casa
+  - name: Almacenamiento de fotos en línea
     image: images/feature/feature-2.png
-    content: Never lose a picture of your loved ones. Setup online storage to automatically
-      backup you phone pictures and also save your camera pictures.
-    title: Photo backup
-  - name: Online Files
+    content: Nunca pierdas una foto de tus seres queridos. Configurar el almacenamiento en línea para que se
+      haga una copia de seguridad de las imágenes de su teléfono y también guarde las imágenes de su cámara.
+    title: Copia de seguridad de fotos
+  - name: Archivos en línea
     image: images/feature/feature-3.png
-    content: Who needs a filing cabinet when you can have all your files stored in
-      the cloud. We can show you how.
-    title: Store your files in the Cloud
+    content:¿Quién necesita un archivador cuando puede tener todos sus archivos almacenados en
+      la Cloud. Podemos mostrarle cómo.
+    title: Guarda tus archivos en la Cloud
 about:
   enable: true
   about_item:
   - image: images/about/about-1.png
-    subtitle: Technical Help
-    title: Will over 20 years working in IT services we can assist with getting you
-      sorted
-    content: If its a hardware or software issue we can locate and fix the majority
-      of issues. Anything we cant sort we can advise of the best approach to resolve
-      an issue e.g. install updated software or purchase the correct hardware.
+    subtitle: Ayuda técnica
+    title: Con más de 20 años trabajando en servicios de TI, podemos ayudarlo a obtener
+      ordenado
+    content: Si se trata de un problema de hardware o software, podemos localizar y solucionar la mayoría
+      de problemas Cualquier cosa que no podamos ordenar, podemos recomendarle el mejor enfoque para resolver
+      un problema, p. instale el software actualizado o compre el hardware correcto.
     button:
       enable: true
-      label: read more
+      label: Lee mas
       link: about
   - image: images/about/about-2.png
-    subtitle: Basic Training
-    title: Let us show you how best to work your computer or phone
-    content: We can give you training to show you the basics needed to get the most
-      from your equipment. If you need top-up sessions to get more advanced then that
-      is no problem.
+    subtitle: Entrenamiento básico
+    title: Permítanos mostrarle la mejor manera de hacer funcionar su computadora o teléfono
+    content: Podemos brindarle capacitación para mostrarle los conceptos básicos necesarios para aprovechar al máximo
+      de su equipo. Si necesita sesiones de recarga para ser más avanzado, entonces eso
+      no es problema.
     button:
       enable: true
-      label: read more
+      label: Lee mas
       link: about
 promo_video:
   enable: true
   video_thumbnail: images/check-video.png
   video_link: https://www.youtube.com/watch?v=yCWNRzoQGis
   subtitle: VPN?
-  title: Someone told you to use a VPN? Well what is it?
+  title: ¿Alguien te dijo que usaras una VPN? ¿Bien, qué es esto?
   content: |-
-    This will give you an idea of what it is and what it can be used for. We can advise which one best suits your needs and
-    set this up for you on your equipment.
+    Esto le dará una idea de lo que es y para qué se puede utilizar. Podemos aconsejarle cuál se adapta mejor a sus necesidades y
+    configure esto para usted en su equipo.
 testimonial:
   enable: true
   subtitle: testimonial
-  title: What Our Clients Says?
+  title: ¿Qué dicen nuestros clientes?
   testimonial_item:
   - name: Susan Holdsworth
-    designation: Internet Fix
-    content: I struggled to setup our internet as the language was all in Spanish.
-             CostaComputerGuy made it all work in no time at all. He advised what package to
-             go for and set it up in our house so all our devices connect automatically.
+    designation: Reparación de Internet
+    content: Tuve problemas para configurar nuestro Internet ya que el idioma era todo en español.
+             CostaComputerGuy hizo que todo funcionara en muy poco tiempo. Aconsejó qué paquete
+             vaya y configúrelo en nuestra casa para que todos nuestros dispositivos se conecten automáticamente.
   - name: Jonas Meyer
-    designation: Purchase Laptop
-    content: Our old laptop was on its way out. We needed to get a new one but did not know what to buy.
-             CostaComputerGuy advised us of what we needed. The advice was priceless and we also used them 
-             to setup the laptop for our daily use. We use CostaComputerGuy on an on-going basis to get us
-             up to speed using our new laptop.
+    designation: Comprar portátil
+    content: Nuestro viejo portátil estaba a punto de salir. Necesitábamos conseguir uno nuevo pero no sabíamos qué comprar.
+             CostaComputerGuy nos aconsejó lo que necesitábamos. Los consejos no tenían precio y también los usamos
+             para configurar la computadora portátil para nuestro uso diario. Usamos CostaComputerGuy de manera continua para obtener
+             al día usando nuestra nueva computadora portátil.
   - name: Alberto Morales
-    designation: Hardware issues
-    content: CostaComputerGuy fixed out computer and got us back working without a fuss. 
-             Our computer had stopped working some time ago, and until we met CostaComputerGuy it
-             was destined for the scrapheap. They replaced the hard-drive and hey presto, back to life it came.
-             They also set up some online storage so we would not lose our files again.
+    designation: Problemas de hardware
+    content: CostaComputerGuy arregló la computadora y nos hizo volver a trabajar sin problemas.
+             Nuestra computadora había dejado de funcionar hace algún tiempo, y hasta que conocimos a CostaComputerGuy,
+             estaba destinado a la chatarra. Reemplazaron el disco duro y listo, volvió a la vida.
+             También configuraron algo de almacenamiento en línea para que no volviéramos a perder nuestros archivos.
   - name: Brian Wilson
-    designation: VPN access
-    content: Our online banking application had stopped working as we had moved to Spain but we still needed access
-             to our accounts. CostaComputerGuy installed a VPN (whatever that is) and we could continue to use our
-             banking app in Spain to manage our accounts. This worked on our phones and computer.
+    designation: Acceso VPN
+    content: Nuestra aplicación de banca en línea había dejado de funcionar cuando nos mudamos a España, pero aún necesitábamos acceso
+             a nuestras cuentas. CostaComputerGuy instaló una VPN (sea lo que sea) y podríamos seguir usando nuestra
+             App bancaria en España para gestionar nuestras cuentas. Esto funcionó en nuestros teléfonos y computadoras.
   - name: Lorenza Garcia
-    designation: Basic Computer Use
-    content: Since my family have moved overseas they have asked me to setup video calling so we can keep in touch.
-             They contacted CostaComputerGuy to come to my house and set it all up. CostaComputerGuy spent time with me
-             showing me how to call my family and give me confidence in using the software on my phone. My family are over the moon.
+    designation: Lecciones básicas de computadora
+    content: Desde que mi familia se mudó al extranjero, me pidieron que configurara videollamadas para que podamos mantenernos en contacto.
+             Se pusieron en contacto con CostaComputerGuy para venir a mi casa y configurarlo todo. CostaComputerGuy pasó tiempo conmigo
+             mostrándome cómo llamar a mi familia y darme confianza para usar el software en mi teléfono. Mi familia está sobre la luna.
 download:
   enable: false
   title: Download Agico Now
@@ -121,8 +121,8 @@ download:
     link: "#"
 pricing:
   enable: true
-  subtitle: Our pricing is split into two categories. A one off payment per visit. Or Pay monthly and have us on call.
-  title: Our rate is 20 Euros per/hour and we will give you an estimate to how long it will take.
+  subtitle: Nuestros precios se dividen en dos categorías. Un pago único por visita. O Paga mensualmente y tennos de guardia.
+  title: Nuestra tarifa es de 20€ por hora y le daremos un tiempo estimado.
   section: pricing
   show_items: "3"
 
