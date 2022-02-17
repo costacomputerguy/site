@@ -9,7 +9,7 @@
         <form action="{{ .mailchimp_form_action }}" method="post"
           name="mc-embedded-subscribe-form" target="_blank" novalidate class="row flex-fill">
           <div class="col-lg-7 my-md-2 my-2">
-            <input type="email" class="form-control text-white px-4 border-0 w-100 text-center text-md-left" placeholder="Your Email" name="EMAIL">
+            <input type="email" class="form-control text-white px-4 border-0 w-100 text-center text-md-left" placeholder="{{ i18n "your_email" }}" name="EMAIL">
           </div>
           <div class="col-lg-5 my-md-2 my-2">
             <button type="submit" name="subscribe" class="btn btn-primary btn-lg border-0 w-100">{{ i18n "subscribe_now" | safeHTML }}</button>
