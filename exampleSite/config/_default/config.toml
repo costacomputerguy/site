@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://https://costacomputerguy.netlify.app/"
-title = "Costa Computer Guy | IT support service on Costa Tropical"
+title = "Costa Computer Guy | Computer support service on Costa Tropical"
 theme = "agico-hugo"
 # post pagination
 paginate = "6"
@@ -9,7 +9,7 @@ summaryLength = "10"
 # google analytics
 googleAnalytics = "" # example: UA-123-45, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
-disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+disqusShortname = "elastickband" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [""] # example: ["fr"] for disable french language
 

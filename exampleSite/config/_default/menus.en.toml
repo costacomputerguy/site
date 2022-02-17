@@ -20,36 +20,6 @@ name = "Contact"
 URL = "contact"
 weight = 5
 
-[[main]]
-weight = 6
-name = "Pages"
-hasChildren = true
-
-  [[main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[main]]
-  parent = "Pages"
-  name = "Career"
-  URL = "career"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Team"
-  URL = "team"
-
-  [[main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-  
-  [[main]]
-  parent = "Pages"
-  name = "Changelog"
-  URL = "changelog"
-
 #Footer menu
 [[footer]]
 name = "Company History"
