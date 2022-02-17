@@ -80,36 +80,33 @@ testimonial:
   subtitle: testimonial
   title: What Our Clients Says?
   testimonial_item:
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
-  - name: Alice kelly
-    designation: Happy client
-    content: Lorem ipsum dolor amet constur adipi sicing elit sed eiusmtempor incid
-      dolore magna aliqu. enim minim veniam quis nostrud exercittion.ullamco laboris
-      nisi ut aliquip excepteur sint occaecat cuida tat nonproident sunt in culpa
-      qui officia deserunt mollit anim id est laborum. sed ut perspiciatis.
+  - name: Susan Holdsworth
+    designation: Internet Fix
+    content: I struggled to setup our internet as the language was all in Spanish.
+             CostaComputerGuy made it all work in no time at all. He advised what package to
+             go for and set it up in our house so all our devices connect automatically.
+  - name: Jonas Meyer
+    designation: Purchase Laptop
+    content: Our old laptop was on its way out. We needed to get a new one but did not know what to buy.
+             CostaComputerGuy advised us of what we needed. The advice was priceless and we also used them 
+             to setup the laptop for our daily use. We use CostaComputerGuy on an on-going basis to get us
+             up to speed using our new laptop.
+  - name: Alberto Morales
+    designation: Hardware issues
+    content: CostaComputerGuy fixed out computer and got us back working without a fuss. 
+             Our computer had stopped working some time ago, and until we met CostaComputerGuy it
+             was destined for the scrapheap. They replaced the hard-drive and hey presto, back to life it came.
+             They also set up some online storage so we would not lose our files again.
+  - name: Brian Wilson
+    designation: VPN access
+    content: Our online banking application had stopped working as we had moved to Spain but we still needed access
+             to our accounts. CostaComputerGuy installed a VPN (whatever that is) and we could continue to use our
+             banking app in Spain to manage our accounts. This worked on our phones and computer.
+  - name: Lorenza Garcia
+    designation: Basic Computer Use
+    content: Since my family have moved overseas they have asked me to setup video calling so we can keep in touch.
+             They contacted CostaComputerGuy to come to my house and set it all up. CostaComputerGuy spent time with me
+             showing me how to call my family and give me confidence in using the software on my phone. My family are over the moon.
 download:
   enable: false
   title: Download Agico Now
