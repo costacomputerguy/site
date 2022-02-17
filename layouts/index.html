@@ -222,7 +222,8 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}</p>
+        <p class="subtitle" data-aos="fade-up">{{ .subtitle }}</p>
+        <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .title }}</h2>
         {{ with site.GetPage (string .section) }}
         <p class="subtitle" data-aos="fade-up">{{ .Params.pricing.subtitle }}</p>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .Params.pricing.title }}</h2>

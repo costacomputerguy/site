@@ -141,6 +141,8 @@ download:
 ############################## pricing ###########################
 pricing:
   enable : true
+  subtitle: Our pricing is split into two categories. A one off payment per visit. Or Pay monthly and have us on call.
+  title: Our rate is 20 Euros per/hour and we will give you an estimate to how long it will take.
   section : "pricing"
   show_items : 3
   # pricing item comes from "content/*/pricing.md"
