@@ -57,3 +57,6 @@
 
 - id: subscribe_now
   translation: Subscribe Now
+
+- id: your_email
+  translation: Your Email
