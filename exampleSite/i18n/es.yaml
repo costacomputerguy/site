@@ -1,0 +1,59 @@
+- id: career_subtitle
+  translation: Best Jobs
+  
+- id: career_title
+  translation: Featured Jobs
+
+- id: apply_now
+  translation: Apply Now
+
+- id: job_details
+  translation: Job Details
+
+- id: location
+  translation: Ubicación
+
+- id: job_category
+  translation: Job Category
+
+- id: job_type
+  translation: Job Type
+
+- id: posted_date
+  translation: Fecha de Publicacion
+
+- id: keep_in_touch
+  translation: Mantenerse en Contacto
+
+- id: form_subtitle
+  translation: Mensaje
+
+- id: form_title
+  translation: Deja un mensaje
+
+- id: submit_now
+  translation: Aplique ahora
+
+- id: quick_links
+  translation: Enlaces Rápidos
+
+- id: contact_info
+  translation: Datos de Contacto
+
+- id: search
+  translation: Búsqueda
+
+- id: category
+  translation: Categoría
+
+- id: latest_article
+  translation: Ultimo Artículo
+
+- id: tags
+  translation: Tags
+
+- id: subscribe_newsletter
+  translation: Suscríbete <br> a nuestro boletín
+
+- id: subscribe_now
+  translation: Suscríbase Ahora
