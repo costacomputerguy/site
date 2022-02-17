@@ -60,3 +60,21 @@
 
 - id: your_email
   translation: Tu correo electrónico
+
+- id: your_name
+  translation: Tu Nombre
+
+- id: your_subject
+  translation: Sujeto
+
+- id: your_message
+  translation: Mensaje
+
+- id: mobile
+  translation: Móvil
+
+- id: email
+  translation: Correo electrónico
+
+- id: address
+  translation: Direccion

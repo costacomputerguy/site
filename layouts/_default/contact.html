@@ -16,7 +16,7 @@
             <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
               <i class="fa fa-phone icon-primary"></i>
               <div class="pl-3">
-                <h6 class="text-dark">Mobile</h6>
+                <h6 class="text-dark">{{ i18n "mobile" }}</h6>
                 <p>{{ . | markdownify }}</p>
               </div>
             </li>
@@ -26,7 +26,7 @@
             <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
               <i class="fas fa-envelope icon-primary"></i>
               <div class="pl-3">
-                <h6 class="text-dark">Email</h6>
+                <h6 class="text-dark">{{ i18n "email" }}</h6>
                 <p>{{ . | markdownify }}</p>
               </div>
             </li>
@@ -36,7 +36,7 @@
             <li class="d-flex mb-4" data-aos="fade-up" data-aos-delay="100">
               <i class="fas fa-map icon-primary"></i>
               <div class="pl-3">
-                <h6 class="text-dark">Address</h6>
+                <h6 class="text-dark">{{ i18n "address" }}</h6>
                 <p>{{ . | markdownify }}</p>
               </div>
             </li>
@@ -61,13 +61,13 @@
             <input type="text" class="form-control mb-4" placeholder="{{ i18n "your_email" }}">
           </div>
           <div class="col-lg-6">
-            <input type="text" class="form-control mb-4" placeholder="Your Name">
+            <input type="text" class="form-control mb-4" placeholder="{{ i18n "your_name" }}">
           </div>
           <div class="col-lg-12">
-            <input type="text" class="form-control mb-4" placeholder="Subject">
+            <input type="text" class="form-control mb-4" placeholder="{{ i18n "your_subject" }}">
           </div>
           <div class="col-lg-12">
-            <textarea name="message" class="form-control mb-4" placeholder="Message"></textarea>
+            <textarea name="message" class="form-control mb-4" placeholder="{{ i18n "your_message" }}"></textarea>
           </div>
           <div class="col-12">
             <button type="submit" class="btn btn-primary">{{ i18n "submit_now"}}</button>
