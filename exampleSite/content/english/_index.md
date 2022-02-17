@@ -13,7 +13,7 @@ banner:
     label: Get in Touch
     link: "#"
 partner:
-  enable: true
+  enable: false
   partner_logo:
   - images/partner/client-logo-1.png
   - images/partner/client-logo-2.png
@@ -45,23 +45,22 @@ about:
   enable: true
   about_item:
   - image: images/about/about-1.png
-    subtitle: about agico
-    title: Eausmod tempor magna nostrud exercitation
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    subtitle: Technical Help
+    title: Will over 20 years working in IT services we can assist with getting you
+      sorted
+    content: If its a hardware or software issue we can locate and fix the majority
+      of issues. Anything we cant sort we can advise of the best approach to resolve
+      an issue e.g. install updated software or purchase the correct hardware.
     button:
       enable: true
       label: read more
       link: about
   - image: images/about/about-2.png
-    subtitle: about agico
-    title: Rehenderit volupate velit proident sunt culpa
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-      quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis
-      aute.
+    subtitle: Basic Training
+    title: Let us show you how best to work your computer or phone
+    content: We can give you training to show you the basics needed to get the most
+      from your equipment. If you need top-up sessions to get more advanced then that
+      is no problem.
     button:
       enable: true
       label: read more
