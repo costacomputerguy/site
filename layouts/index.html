@@ -225,6 +225,7 @@
         {{ with site.GetPage (string .section) }}
         <p class="subtitle" data-aos="fade-up">{{ .Params.pricing.subtitle }}</p>
         <h2 class="section-title" data-aos="fade-up" data-aos-delay="100">{{ .Params.pricing.title }}</h2>
+        <p class="mb-4" data-aos="fade-left" data-aos-delay="300">{{ .content | markdownify }}</p>
         {{ end }}
       </div>
       
