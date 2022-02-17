@@ -1,11 +1,11 @@
 ---
-title: "Our Service"
+title: "Nuestro servicio"
 # watermark text
-watermark: "Service"
+watermark: "Servicio"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Costa Computer Guy services - Costa tropical"
+description : "Costa Computer Guy servicio - Costa tropical"
 
 layout : "service"
 draft : false
@@ -13,68 +13,68 @@ draft : false
 ############################### service ##############################
 service:
   enable : true
-  subtitle : "Services"
-  title : "Our Service Area"
+  subtitle : "Servicio"
+  title : "Nuestra Área de Servicio"
   service_item:
-  - title : "Email setup"
+  - title : "Configuración de correo electrónico"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Get setup with a new email and synced on your phone"
+    content : "Obtenga la configuración con un nuevo correo electrónico y sincronizado en su teléfono"
 
-  - title : "Computer support"
+  - title : "Soporte informático"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Your computer not working, let us take a look"
+    content : "Su computadora no funciona, echemos un vistazo"
 
-  - title : "Cloud Service"
+  - title : "Cloud Servicio"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Never lose a file of photo again. We can set you up on cloud nine"
+    content : "Nunca pierda un archivo de foto de nuevo. Podemos configurarlo en la Cloud"
   
-  - title : "Training"
+  - title : "Entrenamiento "
     icon : "far fa-object-ungroup"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Basic training on using the latest technology"
+    content : "Formación básica sobre el uso de la última tecnología."
     
-  - title : "Video Calling"
+  - title : "Videollamada"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Keep in touch with your loved ones."
+    content : "Manténgase en contacto con sus seres queridos."
     
-  - title : "Software support"
+  - title : "Soporte de software"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Need the correct version for your equipment? Let us install it for you"
+    content : "¿Necesita la versión correcta para su equipo? Dejanos instalarlo por ti."
     
-  - title : "Confidence building"
+  - title : "Fomento de la confianza"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "We can help you build your confidence using your phone or laptop"
+    content : "Podemos ayudarlo a desarrollar su confianza usando su teléfono o computadora portátil."
     
   - title : "Internet TV"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Bought a new smart TV? We can get it connected"
+    content : "¿Compró un nuevo televisor inteligente? Podemos conectarlo."
 
 
 ############################### Features #####################################
 feature:
   enable : true
-  subtitle : "Mobile Phone"
-  title : "Extra help with your new phone"
+  subtitle : "Teléfono móvil"
+  title : "Ayuda adicional con tu nuevo teléfono."
   feature_item:
-  - title : "Contacts Transferred"
+  - title : "Contactos transferidos"
     icon : "fas fa-mobile"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Need all your old contacts transfered from your old phone to your new one."
+    content : "Necesita que todos sus contactos antiguos se transfieran de su teléfono anterior al nuevo."
     
-  - title : "Easy Setup"
+  - title : "Configuración fácil"
     icon : "fas fa-cogs"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Install the essential apps to see you through the day."
+    content : "Instala las aplicaciones esenciales para ayudarte a pasar el día."
     
-  - title : "Extreme Security"
+  - title : "Seguridad extrema"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Make sure your emails and data is safe and secure."
+    content : "Asegúrese de que sus correos electrónicos y datos estén seguros y protegidos."
 ---

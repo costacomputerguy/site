@@ -1,0 +1,42 @@
+############# English navigation ##############
+# main menu    
+[[main]]
+name = "Nosotras"
+URL = "about"
+weight = 2
+  
+[[main]]
+name = "Servicio"
+URL = "service"
+weight = 3
+
+[[main]]
+name = "Blog"
+URL = "blog"
+weight = 4
+
+[[main]]
+name = "Contacto"
+URL = "contact"
+weight = 5
+
+#Footer menu
+[[footer]]
+name = "Historia de la Compañía"
+URL = "about"
+
+[[footer]]
+name = "Nosotras"
+URL = "about"
+
+[[footer]]
+name = "Contacto Nosotras"
+URL = "contact"
+
+[[footer]]
+name = "Servicio"
+URL = "service"
+
+[[footer]]
+name = "Política de privacidad"
+URL = "#"
