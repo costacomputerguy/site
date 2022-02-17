@@ -68,13 +68,12 @@ about:
 promo_video:
   enable: true
   video_thumbnail: images/check-video.png
-  video_link: https://www.youtube.com/watch?v=VufDd-QL1c0
-  subtitle: Check Video
-  title: Best Way to Chat Your Customers.
+  video_link: https://www.youtube.com/watch?v=yCWNRzoQGis
+  subtitle: VPN?
+  title: Someone told you to use a VPN? Well what is it?
   content: |-
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat. duis aute.
-
-    Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat non proident.
+    This will give you an idea of what it is and what it can be used for. We can advise which one best suits your needs and
+    set this up for you on your equipment.
 testimonial:
   enable: true
   subtitle: testimonial

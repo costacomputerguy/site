@@ -5,7 +5,7 @@ watermark: "Service"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "Costa Computer Guy services - Costa tropical"
 
 layout : "service"
 draft : false
@@ -16,65 +16,65 @@ service:
   subtitle : "Services"
   title : "Our Service Area"
   service_item:
-  - title : "Networking"
-    icon : "far fa-object-ungroup"
-    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
-
-  - title : "Social Activity"
+  - title : "Email setup"
     icon : "fas fa-users"
     icon_color : "yellow" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Get setup with a new email and synced on your phone"
 
-  - title : "Web Design"
+  - title : "Computer support"
     icon : "fas fa-desktop"
     icon_color : "purple" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Your computer not working, let us take a look"
 
   - title : "Cloud Service"
     icon : "fas fa-cloud"
     icon_color : "cyan" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Never lose a file of photo again. We can set you up on cloud nine"
+  
+  - title : "Training"
+    icon : "far fa-object-ungroup"
+    icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
+    content : "Basic trainging on using the latest technology"
     
-  - title : "Consulting"
+  - title : "Video Calling"
     icon : "far fa-comments"
     icon_color : "red" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Keep in touch with your loved ones."
     
-  - title : "SEO Optimization"
+  - title : "Software support"
     icon : "fas fa-search-plus"
     icon_color : "green" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Ned the correct version for your equipment? Let us install it for you"
     
-  - title : "Usability Testing"
+  - title : "Confidence building"
     icon : "fas fa-chart-line"
     icon_color : "orange" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "We can help you build your confidence using your phone or laptop"
     
-  - title : "UX Prototyping"
+  - title : "Internet TV"
     icon : "fab fa-wpexplorer"
     icon_color : "blue" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do"
+    content : "Bought a new smart TV? We can get it connected"
 
 
 ############################### Features #####################################
 feature:
   enable : true
-  subtitle : "fetures"
-  title : "exclusive features"
+  subtitle : "Mobile Phone"
+  title : "Extra help with your new phone"
   feature_item:
-  - title : "Exclusive Design"
-    icon : "fas fa-desktop"
+  - title : "Contacts Transferred"
+    icon : "fas fa-mobile"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Need all your old contacts transfered from your old phone to your new one."
     
-  - title : "Easy Customize"
+  - title : "Easy Setup"
     icon : "fas fa-cogs"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Install the essential apps to see you through the day."
     
   - title : "Extreme Security"
     icon : "fas fa-shield-alt"
     icon_color : "primary" # available color : primary, yellow, purple, cyan, red, green, orange, blue.
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore dolore magna."
+    content : "Make sure your emails and data is safe and secure."
 ---

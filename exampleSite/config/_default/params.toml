@@ -31,7 +31,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "sign up"
+label = "Contact"
 link = "#"
 
 # Subscription

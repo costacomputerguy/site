@@ -5,7 +5,7 @@ watermark: "About"
 # page header background image
 page_header_image: "images/background/about.jpg"
 # meta description
-description : "Cupidatat non proident sunt culpa qui officia deserunt mollit <br> anim idest laborum sed ut perspiciatis."
+description : "Costa Computer Guy - technical assistance on the costa tropical"
 
 layout : "about"
 draft : false
@@ -16,9 +16,13 @@ about:
   video_bg_image : "images/about/about-3.jpg"
   video_thumbnail : "images/about/about-4.jpg"
   video_link : "https://www.youtube.com/watch?v=VufDd-QL1c0"
-  subtitle : "About Agico"
-  title : "Eausmod tempor magna nostrud exercitation"
-  content : "Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laboris nisi ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloreque laudantum."
+  subtitle : "Costa Computer Guy"
+  title : "What we have done, and what we can do"
+  content : "With over twenty years in computer services, supporting and maintaing computer service
+             for some of the largest companies on the globe, we have knowledge to pinpoint and fix
+             the majority of technical issues. Now located on the costa tropical, we are look to offer
+             this knowledge to businesses and individuals that are experiencing technical issues that
+             they are stuggling to fix."
   button:
     enable : true
     label : "Contact Us"
@@ -29,20 +33,20 @@ funfacts:
   enable : true
   funfact_item:
   # funfact item loop
-  - name : "Downloads per day"
-    count : "8000"
+  - name : "Customers helped"
+    count : "130"
     
   # funfact item loop
-  - name : "Design awards"
-    count : "200"
+  - name : "Calls taken"
+    count : "2099"
 
   # funfact item loop
-  - name : "Totally satisfied users"
-    count : "25000"
+  - name : "Switch it off and on again"
+    count : "250000"
 
   # funfact item loop
-  - name : "People behind this app"
-    count : "80"
+  - name : "Grandkids(so far)"
+    count : "1"
 
 
 ########################### Service ################################
