@@ -38,7 +38,7 @@ feature:
     title: Copia de seguridad de fotos
   - name: Archivos en línea
     image: images/feature/feature-3.png
-    content:¿Quién necesita un archivador cuando puede tener todos sus archivos almacenados en
+    content: ¿Quién necesita un archivador cuando puede tener todos sus archivos almacenados en
       la Cloud. Podemos mostrarle cómo.
     title: Guarda tus archivos en la Cloud
 about:
