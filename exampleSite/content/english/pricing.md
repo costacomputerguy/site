@@ -30,7 +30,7 @@ pricing:
   - title : "Regular User Cover"
     price : "€59"
     unit : "month"
-    description : "Best for individuals in need of more help"
+    description : "Individuals in need of more help"
     link : "#"
     services:
     - "Contact us via whatsapp"
