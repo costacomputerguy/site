@@ -81,3 +81,6 @@
 
 - id: select_plan
   translation: Select Plan
+
+- id: site_title
+  translation: Costa Computer Guy | Computer support service on Costa Tropical
