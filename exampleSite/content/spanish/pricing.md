@@ -41,8 +41,8 @@ pricing:
   # pricing table loop
   - title : "Business"
     price : "€99"
-    unit : "month"
-    description : "Best for business"
+    unit : "mes"
+    description : "Lo mejor para las empresas"
     link : "#"
     services:
     - "Contacta con nosotros a través de whatsapp"
