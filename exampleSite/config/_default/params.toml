@@ -32,7 +32,7 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 [navigation_button]
 enable = true
 label = "Contact"
-link = "#"
+link = "contact"
 
 # Subscription
 [subscription]

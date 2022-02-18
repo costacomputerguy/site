@@ -84,3 +84,6 @@
 
 - id: site_title
   translation: Costa Computer Guy | Computer support service on Costa Tropical
+
+- id: contact
+  translation: Contact

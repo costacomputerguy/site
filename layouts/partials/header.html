@@ -57,7 +57,7 @@
 
         {{ if .Site.Params.navigation_button.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
-        <a href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-outline-primary text-white ml-lg-3">{{ .Site.Params.navigation_button.label }}</a>
+        <a href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-outline-primary text-white ml-lg-3">{{ i18n "contact" }}</a>
         {{ end }}
       </div>
     </nav>

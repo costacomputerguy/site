@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: Ponerse en contacto
-    link: "contact"
+    link: "es/contact"
 partner:
   enable: false
   partner_logo:
