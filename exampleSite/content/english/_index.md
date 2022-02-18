@@ -11,7 +11,7 @@ banner:
   button:
     enable: true
     label: Get in Touch
-    link: "#"
+    link: contact
 partner:
   enable: false
   partner_logo:
