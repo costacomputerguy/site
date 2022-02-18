@@ -30,7 +30,7 @@ pricing:
   - title : "Cobertura de usuario regular"
     price : "€59"
     unit : "mes"
-    description : "Individuos que necesitan más ayuda"
+    description : "Si necesitas más ayuda"
     link : "#"
     services:
     - "Contacta con nosotros a través de whatsapp"
