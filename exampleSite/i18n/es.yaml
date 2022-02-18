@@ -87,3 +87,6 @@
 
 - id: contact
   translation: Contacto
+
+- id: site_letter
+  translation: es
