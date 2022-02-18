@@ -13,7 +13,7 @@ categories:
 tags:
   - "VPN"
   - "WFH"
-  - "Trabajo remoto"
+  - "Teletrabajo"
   - "Digital Nomad"
 ---
 
