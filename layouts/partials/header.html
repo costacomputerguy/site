@@ -56,12 +56,8 @@
         {{ end }}
 
         {{ if .Site.Params.navigation_button.enable }}
-        {{ if i18n "site_letter" != "en" }}
-        {{ $site_link := .Site.Params.navigation_button.link }}
-        {{ else }}
-        {{ $site_link := i18n "site_letter" + "/" + .Site.Params.navigation_button.link }}
         {{ "<!-- get start btn -->" | safeHTML }}
-        <a href="{{ $site_link | absURL }}" class="btn btn-outline-primary text-white ml-lg-3">{{ i18n "contact" }}</a>
+        <a href="{{ .Site.Params.navigation_button.link | relLangURL }}" class="btn btn-outline-primary text-white ml-lg-3">{{ i18n "contact" }}</a>
         {{ end }}
       </div>
     </nav>
