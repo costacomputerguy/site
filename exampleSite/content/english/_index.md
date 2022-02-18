@@ -92,7 +92,7 @@ testimonial:
              up to speed using our new laptop.
   - name: Alberto Morales
     designation: Hardware issues
-    content: CostaComputerGuy fixed out computer and got us back working without a fuss. 
+    content: CostaComputerGuy fixed our computer and got us back working without a fuss. 
              Our computer had stopped working some time ago, and until we met CostaComputerGuy it
              was destined for the scrapheap. They replaced the hard-drive and hey presto, back to life it came.
              They also set up some online storage so we would not lose our files again.

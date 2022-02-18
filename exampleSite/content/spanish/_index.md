@@ -92,7 +92,7 @@ testimonial:
              al día usando nuestra nueva computadora portátil.
   - name: Alberto Morales
     designation: Problemas de hardware
-    content: CostaComputerGuy arregló la computadora y nos hizo volver a trabajar sin problemas.
+    content: CostaComputerGuy arregló nuestra computadora y nos hizo volver a trabajar sin problemas.
              Nuestra computadora había dejado de funcionar hace algún tiempo, y hasta que conocimos a CostaComputerGuy,
              estaba destinado a la chatarra. Reemplazaron el disco duro y listo, volvió a la vida.
              También configuraron algo de almacenamiento en línea para que no volviéramos a perder nuestros archivos.
