@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://https://costacomputerguy.netlify.app/"
+baseURL = "https://costacomputerguy.netlify.app/"
 title = "Costa Computer Guy | Computer support service on Costa Tropical"
 theme = "agico-hugo"
 # post pagination
