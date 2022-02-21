@@ -14,7 +14,7 @@ email = "costacomputerguy@outlook.es"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "Your ID"
+google_analytics_id = "UA-221114048-1"
 # main sections
 mainSections = ["blog"]
 # search
